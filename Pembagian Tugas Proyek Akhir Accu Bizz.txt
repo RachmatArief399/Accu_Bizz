@@ -1,0 +1,9 @@
+Tugas
+
+Arif  : Front End, MySQL
+Faza  : MySQL
+Adiib : Back End (Akses Admin, Perbaiki Bug)
+Yunus : Back End (Buat Profil, Perbaiki Bug)
+Zhafira : Buat Logo, Testing
+
+Semua Saling Bantu
